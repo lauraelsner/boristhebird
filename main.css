@@ -78,13 +78,15 @@ PAGE CONTENT
 	padding-left: 15px;
 	padding-right: 15px;
 	border-top: 6px solid #666666;
+	padding: 30px;
 }
 
 #inner-wrapper-2 {
-	background-color: #f2f2f2;
+	background-color: #d5eed5;
 	padding-left: 15px;
 	padding-right: 15px;
 	border-top: 6px solid #666666;
+	padding: 30px;
 }
 
 /*
@@ -106,11 +108,9 @@ BACKGROUND COLORS FOR COLUMN LAOUT TESTING
 */
 
 #inner-wrapper-3 {
-	background-color: #f2f2f2;
-	margin-bottom: 30px;
-	padding-left: 15px;
-	padding-right: 15px;
+	background-color: #666666;
 	border-top: 6px solid #666666;
+	padding: 30px;
 }
 
 .video {
